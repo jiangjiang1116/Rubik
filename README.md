@@ -1,6 +1,10 @@
-# Rubik
-WeChat mini program - Rubik's Cube
-源码目录介绍
+## FirstRubik
+
+## 二维码
+
+<img src="https://raw.githubusercontent.com/newbieYoung/Threejs_rubik/master/firstrubik-arcode.jpg">
+
+## 源码目录介绍
 ```
 ./adapter                                  // 适配库
 ./images                                   // 素材图片
