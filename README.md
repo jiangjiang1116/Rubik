@@ -1,5 +1,6 @@
 ## WeChat mini program - Rubik's Cube
 
+ThreeJS/微信小程序/JavaScript 
 
 ## 源码目录介绍
 ```
