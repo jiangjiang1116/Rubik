@@ -1,5 +1,6 @@
 ## WeChat mini program - Rubik's Cube
 
+基于 ThreeJS 框架的魔方微信小游戏
 ThreeJS/微信小程序/JavaScript 
 
 2023.8.11成功本地运行并提交了微信审核
